@@ -213,6 +213,16 @@
 <text x="29.85" y="42" size="1" layer="25" rot="R90" align="center-right">RX+</text>
 <text x="32.39" y="42" size="1" layer="25" rot="R90" align="center-right">RX-</text>
 <text x="1.5" y="23.5" size="1" layer="25" rot="R90" align="center">Designed for Takachi MX2-6-10</text>
+<text x="16" y="38" size="1" layer="25" align="center">101</text>
+<text x="30" y="38" size="1" layer="25" align="center">101</text>
+<text x="43" y="31" size="1" layer="25" rot="R90" align="center">102</text>
+<text x="40" y="31" size="1" layer="25" rot="R90" align="center">221</text>
+<text x="37" y="31" size="1" layer="25" rot="R90" align="center">221</text>
+<text x="4" y="16" size="1" layer="25" rot="R90" align="center">221</text>
+<text x="34" y="16" size="1" layer="25" align="center">7406</text>
+<text x="16" y="16" size="1" layer="25" align="center">TLP2630</text>
+<text x="16" y="31" size="1" layer="25" align="center">LTC485</text>
+<text x="30" y="31" size="1" layer="25" align="center">LTC485</text>
 </plain>
 <libraries>
 <library name="linear-technology" urn="urn:adsk.eagle:library:261">
